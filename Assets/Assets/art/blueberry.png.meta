@@ -1,22 +1,10 @@
 fileFormatVersion: 2
-guid: d9763e3466feacc46a0644ac02f1dcec
+guid: bfbf5d27153d12645bbf4d4b27059a77
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 971625017900618425
-    second: castle1_0
-  - first:
-      213: -1182445929813187386
-    second: castle1_1
-  - first:
-      213: 7341981738198947114
-    second: castle1_2
-  - first:
-      213: 6514433315314963030
-    second: castle1_3
-  - first:
-      213: 2236635346288285072
-    second: castle1_4
+      213: 3579979325370944529
+    second: blueberry_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -84,7 +72,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 64
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -108,17 +96,56 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: castle1_0
+      name: blueberry_0
       rect:
         serializedVersion: 2
-        x: 513
-        y: 734
-        width: 14
-        height: 16
+        x: 129
+        y: 87
+        width: 698
+        height: 824
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -127,96 +154,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9b259de4ec7eb7d00800000000000000
-      internalID: 971625017900618425
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castle1_1
-      rect:
-        serializedVersion: 2
-        x: 106
-        y: 187
-        width: 828
-        height: 484
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6c4e06311bb179fe0800000000000000
-      internalID: -1182445929813187386
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castle1_2
-      rect:
-        serializedVersion: 2
-        x: 499
-        y: 656
-        width: 42
-        height: 76
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a25d0cccd75f3e560800000000000000
-      internalID: 7341981738198947114
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castle1_3
-      rect:
-        serializedVersion: 2
-        x: 88
-        y: 511
-        width: 14
-        height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6529158d59ae76a50800000000000000
-      internalID: 6514433315314963030
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castle1_4
-      rect:
-        serializedVersion: 2
-        x: 923
-        y: 459
-        width: 13
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 095989b4fff1a0f10800000000000000
-      internalID: 2236635346288285072
+      spriteID: 11c4af79a34aea130800000000000000
+      internalID: 3579979325370944529
       vertices: []
       indices: 
       edges: []
@@ -235,11 +174,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      castle1_0: 971625017900618425
-      castle1_1: -1182445929813187386
-      castle1_2: 7341981738198947114
-      castle1_3: 6514433315314963030
-      castle1_4: 2236635346288285072
+      blueberry_0: 3579979325370944529
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

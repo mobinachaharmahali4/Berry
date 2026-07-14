@@ -1,13 +1,19 @@
 fileFormatVersion: 2
-guid: cfd1dad7bd9149e4eb4ce25c0edb9317
+guid: 32f349ba45bfd344492d7a05254be1b7
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 799451149388217749
-    second: blackberry_0
+      213: -5119980863986964875
+    second: castle_0
   - first:
-      213: 3814656912610447308
-    second: blackberry_1
+      213: -145931186996790647
+    second: castle_1
+  - first:
+      213: -6713637968961796653
+    second: castle_2
+  - first:
+      213: 8274383364455029367
+    second: castle_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -99,17 +105,56 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: blackberry_0
+      name: castle_0
       rect:
         serializedVersion: 2
-        x: 172
-        y: 80
-        width: 551
-        height: 842
+        x: 513
+        y: 734
+        width: 14
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -118,20 +163,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 59dff8ea598381b00800000000000000
-      internalID: 799451149388217749
+      spriteID: 5766241f78c22f8b0800000000000000
+      internalID: -5119980863986964875
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blackberry_1
+      name: castle_1
       rect:
         serializedVersion: 2
-        x: 485
-        y: 921
-        width: 44
-        height: 43
+        x: 106
+        y: 187
+        width: 828
+        height: 484
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -140,8 +185,52 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ccf4228404260f430800000000000000
-      internalID: 3814656912610447308
+      spriteID: 98ab76dcb5c89fdf0800000000000000
+      internalID: -145931186996790647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_2
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 656
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d5057d66dd54d2a0800000000000000
+      internalID: -6713637968961796653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_3
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 511
+        width: 14
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a5eb594d384d270800000000000000
+      internalID: 8274383364455029367
       vertices: []
       indices: 
       edges: []
@@ -160,8 +249,10 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      blackberry_0: 799451149388217749
-      blackberry_1: 3814656912610447308
+      castle_0: -5119980863986964875
+      castle_1: -145931186996790647
+      castle_2: -6713637968961796653
+      castle_3: 8274383364455029367
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
