@@ -1,13 +1,10 @@
 fileFormatVersion: 2
-guid: cfd1dad7bd9149e4eb4ce25c0edb9317
+guid: dce34689783a0904cba881a144f97cca
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 799451149388217749
-    second: blackberry_0
-  - first:
-      213: 3814656912610447308
-    second: blackberry_1
+      213: -4571828015118065507
+    second: back_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -142,13 +139,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: blackberry_0
+      name: back_0
       rect:
         serializedVersion: 2
-        x: 172
-        y: 80
-        width: 551
-        height: 842
+        x: 0
+        y: 0
+        width: 1920
+        height: 800
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -157,30 +154,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 59dff8ea598381b00800000000000000
-      internalID: 799451149388217749
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: blackberry_1
-      rect:
-        serializedVersion: 2
-        x: 485
-        y: 921
-        width: 44
-        height: 43
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ccf4228404260f430800000000000000
-      internalID: 3814656912610447308
+      spriteID: d9065b094aa9d80c0800000000000000
+      internalID: -4571828015118065507
       vertices: []
       indices: 
       edges: []
@@ -199,8 +174,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      blackberry_0: 799451149388217749
-      blackberry_1: 3814656912610447308
+      back_0: -4571828015118065507
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

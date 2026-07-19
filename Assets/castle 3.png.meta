@@ -1,10 +1,19 @@
 fileFormatVersion: 2
-guid: af98d0003c305034fa97569ab2a6d55a
+guid: 179b3a30a8a13ca4f8164700dba66cd0
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1312868056580124295
-    second: torob_0
+      213: 2644726403442577700
+    second: castle 3_0
+  - first:
+      213: -2147967517103811432
+    second: castle 3_1
+  - first:
+      213: -3965699448985354093
+    second: castle 3_2
+  - first:
+      213: 5792992313674581048
+    second: castle 3_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -139,13 +148,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: torob_0
+      name: castle 3_0
       rect:
         serializedVersion: 2
-        x: 155
-        y: 42
-        width: 737
-        height: 930
+        x: 513
+        y: 734
+        width: 14
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -154,8 +163,74 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 971959a5571c7cde0800000000000000
-      internalID: -1312868056580124295
+      spriteID: 4219a4dc6a4f3b420800000000000000
+      internalID: 2644726403442577700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle 3_1
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 187
+        width: 828
+        height: 484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89413f17ce2e032e0800000000000000
+      internalID: -2147967517103811432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle 3_2
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 656
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3900441cc5107f8c0800000000000000
+      internalID: -3965699448985354093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle 3_3
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 511
+        width: 14
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 834442311d7d46050800000000000000
+      internalID: 5792992313674581048
       vertices: []
       indices: 
       edges: []
@@ -174,7 +249,10 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      torob_0: -1312868056580124295
+      castle 3_0: 2644726403442577700
+      castle 3_1: -2147967517103811432
+      castle 3_2: -3965699448985354093
+      castle 3_3: 5792992313674581048
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
